@@ -29,3 +29,31 @@ Complete design In home Component
 2. TS Code 3. CSS Code
 
 - Install Star Rating
+
+# =====================================================================================
+
+- Search Functionality
+  1.  Add Search Method to Food Service
+  2.  Add Search Route
+  3.  Show Search Result in Home Components
+  4.  Create Search Components
+  5.  Add to Home Components
+  6.  Add TS Code
+  7.  Add HTML Code
+  8.  Add CSS Code
+
+# ====================================================================================
+
+- Tag bar functionality
+  1. Create Tag Model
+  2. Add Tag to data.ts File
+  3. Add Code in Food Service
+     i. Get all tag method
+     ii. Get all Food by tag method
+  4. Add tag routing
+  5. Show tag result in Home Components
+  6. Generate Tag Components
+     i. Add Tag Components in Home Components
+     ii. Add TS Code
+     iii. Add HTML Code
+     iv. Add CSS Code
