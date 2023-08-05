@@ -57,3 +57,29 @@ Complete design In home Component
      ii. Add TS Code
      iii. Add HTML Code
      iv. Add CSS Code
+
+# =================================================================================
+
+- Add Food Details Page
+
+1. Add Method to food services
+2. Create Food Page Component
+3. Add Routes
+4. Add TS Code
+5. Add HTML Code
+6. Add CSS Code
+
+# =======================================================================
+
+-- Fix Previous Error
+-- Cart Page Setup
+
+1. Create cartItem Model
+2. Create cart Mdoel
+3. Create Cart Service
+4. Add to cart button in Food page redirect
+5. Generate Cart Page Components
+   - Add Routes
+   - Add TS Code
+   - Add HTML COde
+   - Add CSS Code
